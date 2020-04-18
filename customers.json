@@ -1,0 +1,22 @@
+[
+   {
+      "id": 1,
+      "name": "Mandeep Singh",
+      "favoritegame": "Apex Legends"
+   },
+   {
+      "id": 2,
+      "name": "John Doe",
+      "favoritegame": "Rainbow 6 Siege"
+   },
+   {
+      "id": 3,
+      "name": "Manav Rawat",
+      "favoritegame": "Fortnite"
+   },
+   {
+      "id": 4,
+      "name": "Ishant Yadav",
+      "favoritegame": "Pub G"
+   }
+]
